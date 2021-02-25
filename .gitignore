@@ -1,0 +1,3 @@
+# Ignore config file and random dependencies list
+config.py
+dependencies.txt
